@@ -1,8 +1,8 @@
 # Grbl-1.1z
-------------------------------------------------
+------------------------------------------------------------------------------------
 An open source, embedded, high performance g-code-parser and CNC milling controller
 written in optimized C that will run on a straight Arduino UNO
-------------------------------------------------
+
 To use:
 - First make sure you have imported Grbl source code into your Arduino
   IDE. There are details on our Github website on how to do this.
@@ -19,9 +19,9 @@ TO Updata G-Code:
 - word_bit = MODAL_GROUP_G5;
 - gc_block.modal.feed_rate = 95 - int_value;
 - break;
-------------------------------------------------
+
+
 Date: 2022-01-08
 Author: Zhang Jiang 
 Subject:Arduino_Grbl_CNC Grbl v1.1z.20220108
 Copyright (c) 2022 Zhang Jiang For The Sunflower Tech LTD,China
-------------------------------------------------
