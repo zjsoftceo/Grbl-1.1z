@@ -20,8 +20,8 @@ TO Updata G-Code:
 - gc_block.modal.feed_rate = 95 - int_value;
 - break;
 
-
-Date: 2022-01-08
-Author: Zhang Jiang 
-Subject:Arduino_Grbl_CNC Grbl v1.1z.20220108
-Copyright (c) 2022 Zhang Jiang For The Sunflower Tech LTD,China
+*********************************************************************
+- Date: 2022-01-08
+- Author: Zhang Jiang 
+- Subject:Arduino_Grbl_CNC Grbl v1.1z.20220108
+- Copyright (c) 2022 Zhang Jiang For The Sunflower Tech LTD,China
