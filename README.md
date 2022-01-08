@@ -1,6 +1,7 @@
 # Grbl-1.1z
-An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 ------------------------------------------------
+An open source, embedded, high performance g-code-parser and CNC milling controller
+written in optimized C that will run on a straight Arduino UNO
 ------------------------------------------------
 To use:
 - First make sure you have imported Grbl source code into your Arduino
