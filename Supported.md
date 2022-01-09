@@ -14,7 +14,7 @@
     - group 1 = {G81 - G89} (Motion modes: Canned cycles)
     - group 4 = {M1} (Optional stop, ignored)
     - group 6 = {M6} (Tool change)
-   -  group 7 = {G41, G42} cutter radius compensation (G40 is supported)
+    - group 7 = {G41, G42} cutter radius compensation (G40 is supported)
     - group 8 = {G43} tool length offset (G43.1/G49 are supported)
     - group 8 = {M7*} enable mist coolant (* Compile-option)
     - group 9 = {M48, M49, M56*} enable/disable override switches (* Compile-option)
