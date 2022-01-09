@@ -1,4 +1,9 @@
 # Grbl-1.1z
+*********************************************************************
+- Date: 2022-01-08
+- Author: Zhang Jiang 
+- Subject: Arduino_Grbl_CNC Grbl v1.1z.20220108
+- Copyright (c) 2022 Zhang Jiang For The Sunflower Tech LTD,China
 ------------------------------------------------------------------------------------
 An open source, embedded, high performance g-code-parser and CNC milling controller
 written in optimized C that will run on a straight Arduino UNO
@@ -21,7 +26,3 @@ TO Updata G-Code:
 - break;
 
 *********************************************************************
-- Date: 2022-01-08
-- Author: Zhang Jiang 
-- Subject:Arduino_Grbl_CNC Grbl v1.1z.20220108
-- Copyright (c) 2022 Zhang Jiang For The Sunflower Tech LTD,China
